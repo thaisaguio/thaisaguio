@@ -14,16 +14,10 @@
     <li>Python | Machine Learning | Deep Learning</li>
     <li>C# | HTML | CSS | JavaScript</li>
 </p>
-<!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://brunowenzel07.github.io/)
-[![GitHub Page](https://img.shields.io/badge/brunowenzel07.github.io-67136f?style=for-the-badge)](https://brunowenzel07.github.io/)
--->
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
 ### Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/thaisa-guio/?locale=en_US)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=purple)](https://github.com/thaisaguio)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:thaisaguio.data@outlook.com)
 
 <div>
 <a href="https://www.linkedin.com/in/thaisa-guio/?locale=en_US" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
