@@ -8,7 +8,7 @@
 </h1>
 
 <p align="justify">
-    <li>PhD  & M.Sc. in Physics</li>
+    <li>PhD  & M.Sc. in Physics (<i> Theoretical Physics & Mathematical Physics </i>)</li>
     <li>Postgraduate in Data Science (<i> ongoing </i>)</li>
 </p>
 
