@@ -2,7 +2,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>
-    <a href="https://thaisaguio.github.io/">
+    <a href="https://www.linkedin.com/in/thaisa-guio/?locale=en_US">
      <img align="center" alt="Logo BW7 TECH" width="36px" src="https://raw.githubusercontent.com/brunowenzel07/brunowenzel07.github.io/main/Logo400x400.png"></a>
     <span>Thaisa Guio</span>
 </h1>
