@@ -9,7 +9,7 @@
 
 <p align="justify">
     <li>PhD  & M.Sc. in Physics</li>
-    <li>Postgraduate in Data Science</li>
+    <li>Postgraduate in Data Science (ongoing)</li>
 </p>
 
 ## Hi, there!
