@@ -15,11 +15,8 @@
     <li>C# | HTML | CSS | JavaScript</li>
 </p>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" width="40" height="40">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="40" height="40">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" height="40">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" width="40" height="40"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="40" height="40">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" height="40">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="40" height="40">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40">
@@ -40,7 +37,9 @@
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thaisaguio&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thaisaguio&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)
-
+<div>
+<a href="https://github.com/thaisaguio">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisaguio&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisaguio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
