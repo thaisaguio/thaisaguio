@@ -12,6 +12,14 @@
     <li>Postgraduate in Data Science</li>
 </p>
 
+## Hi, there!
+
+🎓⚛️🌌💻 I'm a scientist trained in Physics (PhD) and Mathematics, with vast experience in Data Analysis and Data Science (10 yrs. including work experience in academic research). I've developed scientific and educational projects with Power BI, SQL, Phython and its libraries, including those for Machine Learning/Deep Learning. 
+
+🧐💡 Curious by nature, I love to solve problems. I want to explore new challenges and use my analytical, creative and detail-oriented profile in the search for solutions to worldwide’s problems. 
+
+## Technologies
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" height="80"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" width="100" height="100"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="100" height="100"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="100" height="100"> 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="100" height="100"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="80" height="80"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="100" height="100">
