@@ -27,7 +27,7 @@
 
 <div>
 <a href="https://www.linkedin.com/in/thaisa-guio/?locale=en_US" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=purple)](https://github.com/thaisaguio)
+<a href = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=purple"><img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=purple" target=_blank"></a>
 <a href = "mailto:thaisaguio.data@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
